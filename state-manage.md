@@ -5,3 +5,6 @@
 
 1. [derpy](https://github.com/vdsabev/derpy)  A silly little state manager
 2. [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) Compose a redux store out of smaller bundles of functionality
+3. [redux](http://www.github.com/reactjs/redux)
+4. [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial)
+5. [redux-saga](https://github.com/redux-saga/redux-saga)
