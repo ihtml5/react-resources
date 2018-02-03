@@ -8,3 +8,6 @@
 3. [redux](http://www.github.com/reactjs/redux)
 4. [redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial)
 5. [redux-saga](https://github.com/redux-saga/redux-saga)
+
+### pattern
+1. [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/)
