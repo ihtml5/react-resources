@@ -1,7 +1,7 @@
 ### suspense
 
 #### **异步渲染模式**
-在以下生命周期可以使用suspense
+可以使用suspense的生命周期:
 * render
 * getDerivedStateFromProps
 * setState(prevState, nextProps => {})
